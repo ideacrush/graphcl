@@ -1,3 +1,3 @@
-# graphcl
+# Graph Clustering using Similarity measures
 
- A graph based representation of documents and clustering of Graphs 
+ A graph based approach for document clustering on IMDB data.
